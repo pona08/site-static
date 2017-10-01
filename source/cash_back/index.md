@@ -1,6 +1,8 @@
 title: Blue Cash Preferred® Card from American Express Review
 comments: false
 ---
+![image test](https://www.nextadvisor.com/images/uploads/amex_bluecash_preferred.jpg)
+
 ### Full Review:
 The Blue Cash Preferred® Card from American Express (a NextAdvisor advertiser) is a real cash-back money maker and the winner of our Credit Card Cash Back Analysis, earning users 6% cash back at U.S. supermarkets (on up to $6,000 in purchases annually, then 1%), 3% at U.S. gas stations and select U.S. department stores as well as 1% on everything else. On top of all these ongoing cash back rewards, you'll get a $200 cash back bonus after spending $1,000 in the first 3 months and will enjoy a 0% intro APR on both balance transfers and purchases. And you can rest assured that you'll be taken care of, as American Express was the top-rated card for customer satisfaction according 2017's J.D. Power credit card satisfaction study. 
 
