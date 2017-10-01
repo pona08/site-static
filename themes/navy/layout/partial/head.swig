@@ -45,4 +45,5 @@
   }) }}
   <!-- Google Analytics -->
   {{ partial('google_analytics') }}
+  {{ partial('adsense') }}
 </head>
