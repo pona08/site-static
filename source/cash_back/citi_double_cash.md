@@ -1,6 +1,6 @@
-# title: Credit Card Review:Citi® Double Cash Card
+title: Credit Card Review:Citi® Double Cash Card
 comments: false
-—
+---
 Citi® Double Cash Credit Card combines a generous 2% cash back on all purchases with an 18-month 0% intro APR on balance transfers. It's perfect for anyone who wants to earn a significant 2x cash back on all of their purchases while saving money in interest fees by transferring balances from higher-APR rate cards to this one. 
 
 **Twice the Rewards, No Caps on Cash Back**

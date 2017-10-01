@@ -1,4 +1,4 @@
-# title: Credit Card Review:Blue Cash Preferred® Card from American Express
+title: Credit Card Review:Blue Cash Preferred® Card from American Express
 comments: false
 ---
 
