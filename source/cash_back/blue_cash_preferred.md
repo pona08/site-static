@@ -6,15 +6,15 @@ The Blue Cash Preferred® Card from American Express is a great credit card for 
 
 Here is the hightlights:
 
-#### BIG SUPERMARKET REWARDS
+#### Big Supermarket Rewards
 
 > 6% cash back (on up to $6,000 per year in purchases, then 1%) – that means spending $60 a week at U.S. supermarkets could earn over $180 back per year.
 
-#### GAS AND DEPARTMENT STORE REWARDS
+#### Gas And Department Store Rewards
 
 > 3% cash back at U.S. gas stations and at select U.S. department stores, 1% back on other purchases.
 
-#### SIGN-UP BONUS
+#### Sign-up Bonus
 
 > The Blue Cash Preferred® Card from American Express offers a sign-up bonus, something that not all of its cash-back competitors do: $200 statement credit after you spend $1,000 in purchases on your new Card within the first 3 months. Terms Apply. That more than covers the annual fee for the first year.
 
@@ -34,6 +34,7 @@ Here is the hightlights:
 Terms Apply.
 
 #### Redeem Rewards
+
 > * Redeem reward dollars for statement credits in increments of $25 whenever your total available reward dollar balance is $25 or more.
 * Minimum redemption is 25 reward dollars.
 
