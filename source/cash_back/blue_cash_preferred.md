@@ -1,8 +1,8 @@
-title: Blue Cash Preferred® Card from American Express Review
+# title: Credit Card Review:Blue Cash Preferred® Card from American Express
 comments: false
 ---
 
-The Blue Cash Preferred® Card from American Express is a great card for you to get cashback rewards on common household categories like purchases at U.S. supermarkets and U.S. gas stations. 
+The Blue Cash Preferred® Card from American Express is a great credit card for you to get cashback rewards on common household categories like purchases at U.S. supermarkets and U.S. gas stations. 
 
 Here is the hightlights:
 
@@ -50,3 +50,5 @@ Terms Apply.
 * Returned Payment Fee: Up to $38.
 
 [Apply to drive with Lyft and make up to $35 an hour](https://www.lyft.com/drivers).
+
+#credit_cards

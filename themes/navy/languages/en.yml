@@ -1,6 +1,6 @@
 menu:
   home: Home
-  cash_back: Best Cash Back Cards
+  cash_back: Best Cash Back Credit Cards
 
 index:
   get_started: Get started
@@ -14,23 +14,8 @@ page:
   last_updated: "Last updated: %s"
 
 sidebar:
-  lyft:
-    requirements: Requirements
-    overview: Overview
-    pay: Pay
-  uber:
-    requirements: Requirements
-    overview: Overview
-    pay: Pay
-  postmates:
-    requirements: Requirements
-    overview: Overview
-    pay: Pay
-  instacart:
-    requirements: Requirements
-    overview: Overview
-    pay: Pay
-  doordash:
-    requirements: Requirements
-    overview: Overview
-    pay: Pay
+  cash_back:
+    list: Best Cash Back Credit Cards
+    citi_double_cash: Citi Double Cash Card
+    blue_cash_preferred: Amex Blue Cash Preferred Card
+  

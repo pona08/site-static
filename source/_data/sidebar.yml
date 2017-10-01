@@ -1,20 +1,4 @@
-lyft:
-  requirements:
-    overview: index.html
-    pay: pay.html
-uber:
-  requirements:
-    overview: index.html
-    pay: pay.html
-postmates:
-  requirements:
-    overview: index.html
-    pay: pay.html
-instacart:
-  requirements:
-    overview: index.html
-    pay: pay.html
-doordash:
-  requirements:
-    overview: index.html
-    pay: pay.html
+cash_back:
+  list:
+    blue_cash_preferred: blue_cash_preferred.html
+    citi_double_cash: citi_double_cash.html
