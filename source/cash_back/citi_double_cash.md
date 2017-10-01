@@ -9,7 +9,7 @@ You will earn cash back twice on every purchase with *unlimited* 1% cash back wh
 Balance Transfers do not earn cash back.  
 
 <div>
-![amex](https://c1.nerdwallet.com/images/1114_b2cf2701432e421a5fc4ee3eede68314_L.jpg)
+![amex](https://c1.nerdwallet.com/images/4220_729390816ccdb615ef999cd87032af4f_L.jpg)
 
 <a href="/" style="font-family:orange; font-size:20px;">Apply Now</a>
 </div>
