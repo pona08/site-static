@@ -7,8 +7,8 @@
             <div class="inner">
               <header class="article-header">
                 <h1 class="article-title" itemprop="name">{{ page.title }}</h1>
-                <a href="{{ raw_link(page.source) }}" class="article-edit-link" title="{{ __('page.improve') }}"><i class="fa fa-pencil"></i></a>
               </header>
+              {{ partial('partial/adsense') }}
               <div class="article-content" itemprop="articleBody">
                 {{ page_anchor(page.content) }}
               </div>

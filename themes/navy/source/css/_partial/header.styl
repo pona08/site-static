@@ -1,6 +1,7 @@
 header-padding-normal = 10px
 header-padding-max = 30px
-logo-size = 50px
+logo-size = 30px
+logo-width = 150px
 
 #header
   position: relative
@@ -16,12 +17,12 @@ logo-size = 50px
     justify-content: center
 
 #logo-wrap
-  flex: 0 logo-size
+  flex: 0 logo-width
 
 #logo
   hide-text()
-  background: url("/logo.svg")
-  width: logo-size
+  background: url("/logo.png")
+  width: logo-width
   height: logo-size
   background-size: @width @height
   display: block
