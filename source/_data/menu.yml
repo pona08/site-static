@@ -1,5 +1,6 @@
-docs: /docs/
-api: /api/
-news: /news/
-plugins: /plugins/
-themes: /themes/
+home: /
+lyft: /lyft/
+uber: /uber/
+postmates: /postmates/
+instacart: /instacart/
+doordash: /doordash/
