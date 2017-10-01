@@ -3,8 +3,34 @@ comments: false
 ---
 ![image test](https://www.nextadvisor.com/images/uploads/amex_bluecash_preferred.jpg)
 
-### Full Review:
-The Blue Cash Preferred® Card from American Express (a NextAdvisor advertiser) is a real cash-back money maker and the winner of our Credit Card Cash Back Analysis, earning users 6% cash back at U.S. supermarkets (on up to $6,000 in purchases annually, then 1%), 3% at U.S. gas stations and select U.S. department stores as well as 1% on everything else. On top of all these ongoing cash back rewards, you'll get a $200 cash back bonus after spending $1,000 in the first 3 months and will enjoy a 0% intro APR on both balance transfers and purchases. And you can rest assured that you'll be taken care of, as American Express was the top-rated card for customer satisfaction according 2017's J.D. Power credit card satisfaction study. 
+The Blue Cash Preferred® Card from American Express is a great card for you to get cashback rewards on common household categories like purchases at U.S. supermarkets and U.S. gas stations. 
+
+Here is the hightlights:
+
+* $200 statement credit after you spend $1,000 in purchases on your new Card within the first 3 months.
+* 6% cash back at U.S. supermarkets (on up to $6,000 per year in purchases, then 1%) – that means spending $60 a week at U.S. supermarkets could earn over $180 back per year.
+* 3% cash back at U.S. gas stations and at select U.S. department stores, 1% back on other purchases.
+* Low intro APR: 0% for 12 months on purchases and balance transfers, then a variable rate, currently 13.99% to 24.99%.
+* Expanding merchant acceptance: Over 1 million more places in the U.S. started accepting American Express® Cards in the last year.
+* $95 annual fee.
+Cash back is received in the form of Reward Dollars that can be easily redeemed for statement credits, gift cards, and merchandise.
+Terms Apply.
+
+#### Rewards
+* Get $200 back after you spend $1,000 in purchases on your new Card in your first 3 months. You will receive $200 back in the form of a statement credit
+* Earn 6% cash back at U.S. supermarkets (excluding superstores and warehouse clubs) up to $6,000. After the first $6,000 of purchases in a calendar year users will earn 1% cash back.
+* Earn 3% at U.S. gas stations and select U.S. department stores with no spending cap.
+* Earn 1% on all other eligible purchases with no spending cap.
+
+<div>
+    <div>
+        ![amex](https://c1.nerdwallet.com/images/1114_b2cf2701432e421a5fc4ee3eede68314_L.jpg)
+
+        Blue Cash Preferred® Card from American Express
+
+        <a class="btn btn-default" href="/">Apply Now</a>
+    </div>
+</div>
 
 First off, you'll get a sweet $200 cash back bonus after spending $1,000 on the card in the first 3 months. And it offers great everyday cash back too, as you'll get 6% back at supermarkets - the highest ongoing cash back rate we've seen, making the Blue Cash Preferred® Card from American Express a terrific choice for anyone who spends a significant amount on groceries. Additionally, commuters and others can take advantage of the generous 3% on gas (no spending cap), and shoppers everywhere will appreciate 3% back (no cap) at select department stores like JCP, Kohls, Macys, Sears and Nordstrom. All other purchases will earn a standard 1% cash back with no cap. 
 
@@ -17,20 +43,8 @@ The Blue Cash Preferred® Card from American Express also offers purchase protec
 In sum, the Blue Cash Preferred® Card from American Express is a terrific cash back card with a great $200 cash back bonus, generous ongoing rewards, and a lengthy 0% intro APR on balance transfers and purchases. It will particularly appeal to those who spend more on groceries, gas and department stores. 
 
 Highlights From American Express
-$200 statement credit after you spend $1,000 in purchases on your new Card within the first 3 months.
-6% cash back at U.S. supermarkets (on up to $6,000 per year in purchases, then 1%) – that means spending $60 a week at U.S. supermarkets could earn over $180 back per year.
-3% cash back at U.S. gas stations and at select U.S. department stores, 1% back on other purchases.
-Low intro APR: 0% for 12 months on purchases and balance transfers, then a variable rate, currently 13.99% to 24.99%.
-Expanding merchant acceptance: Over 1 million more places in the U.S. started accepting American Express® Cards in the last year.
-$95 annual fee.
-Cash back is received in the form of Reward Dollars that can be easily redeemed for statement credits, gift cards, and merchandise.
-Terms Apply.
 
-Rewards
-Get $200 back after you spend $1,000 in purchases on your new Card in your first 3 months. You will receive $200 back in the form of a statement credit
-Earn 6% cash back at U.S. supermarkets (excluding superstores and warehouse clubs) up to $6,000. After the first $6,000 of purchases in a calendar year users will earn 1% cash back.
-Earn 3% at U.S. gas stations and select U.S. department stores with no spending cap.
-Earn 1% on all other eligible purchases with no spending cap.
+
 
 Redeem Rewards
 Redeem reward dollars for statement credits in increments of $25 whenever your total available reward dollar balance is $25 or more.
