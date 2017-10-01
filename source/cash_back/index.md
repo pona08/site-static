@@ -1,7 +1,6 @@
 title: Blue Cash Preferred® Card from American Express Review
 comments: false
 ---
-![image test](https://www.nextadvisor.com/images/uploads/amex_bluecash_preferred.jpg)
 
 The Blue Cash Preferred® Card from American Express is a great card for you to get cashback rewards on common household categories like purchases at U.S. supermarkets and U.S. gas stations. 
 
@@ -22,15 +21,11 @@ Terms Apply.
 * Earn 3% at U.S. gas stations and select U.S. department stores with no spending cap.
 * Earn 1% on all other eligible purchases with no spending cap.
 
-<div>
-    <div>
-        ![amex](https://c1.nerdwallet.com/images/1114_b2cf2701432e421a5fc4ee3eede68314_L.jpg)
+```
+![amex](https://c1.nerdwallet.com/images/1114_b2cf2701432e421a5fc4ee3eede68314_L.jpg)
 
-        Blue Cash Preferred® Card from American Express
-
-        <a class="btn btn-default" href="/">Apply Now</a>
-    </div>
-</div>
+<a class="btn btn-default" href="/">Apply Now</a>
+```
 
 First off, you'll get a sweet $200 cash back bonus after spending $1,000 on the card in the first 3 months. And it offers great everyday cash back too, as you'll get 6% back at supermarkets - the highest ongoing cash back rate we've seen, making the Blue Cash Preferred® Card from American Express a terrific choice for anyone who spends a significant amount on groceries. Additionally, commuters and others can take advantage of the generous 3% on gas (no spending cap), and shoppers everywhere will appreciate 3% back (no cap) at select department stores like JCP, Kohls, Macys, Sears and Nordstrom. All other purchases will earn a standard 1% cash back with no cap. 
 
