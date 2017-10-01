@@ -1,16 +1,5 @@
 menu:
-  docs: Docs
-  api: API
-  news: News
-  plugins: Plugins
-  themes: Themes
-  search: Search
-  home: Home
-  lyft: Lyft
-  uber: Uber
-  postmates: Postmates
-  doordash: Doordash
-  instacart: Instacart
+  cash_back: Best Cash Back Cards
 
 index:
   get_started: Get started
