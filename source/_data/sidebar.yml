@@ -1,4 +1,5 @@
 cash_back:
-  list:
+  list: index.html
     blue_cash_preferred: blue_cash_preferred.html
     citi_double_cash: citi_double_cash.html
+    chase_freedom: chase_freedom.html
