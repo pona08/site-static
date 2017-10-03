@@ -3,7 +3,7 @@ comments: false
 ---
 The Chase Freedom® offers 5% cash back in bonus categories that change every quarter, on up to $1,500 spent quarterly. The current bonus categories:
 
-##### Chase Freedom® bonus rewards categories for 2017
+#### Chase Freedom® bonus rewards categories for 2017
 > * Q1 (Jan. 1 - March 31)  Gas stations and local commuter transportation (not including parking, tolls or Amtrak)
 > * Q2 (April 1 - June 30)  Grocery stores and drugstores
 > * Q3 (July 1 – Sept. 30)  Restaurants and movie theaters
@@ -27,7 +27,7 @@ The Chase Freedom® offers 5% cash back in bonus categories that change every qu
 * Cash Back rewards do not expire as long as your account is open
 * No annual fee
 
-##### Redeem Rewards
+#### Redeem Rewards
 * Rewards do not expire as long as your account is open.
 * Rebates can be redeemed for cash, as well as travel, gift cards or statement credits.
 
